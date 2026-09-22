@@ -10,3 +10,6 @@ __pycache__/
 .nox/
 *.pyc
 *.pyo
+
+# 构建产物
+dist/
